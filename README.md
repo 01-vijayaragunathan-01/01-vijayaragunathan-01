@@ -1,7 +1,7 @@
 ## Hi there 👋 it's me Vijayaragunathan
 
 <p align="center">
-  <a href="https://vijayaragunathan.netlify.app/">🌐 Portfolio</a> • 
-  <a href="https://discord.gg/CcBkCT97Fg">Discord</a> • 
-  <a href="https://instagram.com/your_handle">Instagram</a>
+  Here's my Portfolio<a href="https://vijayaragunathan.netlify.app/">🌐 Portfolio</a> • 
+  Join Server To collaborate<a href="https://discord.gg/CcBkCT97Fg">Discord</a> • 
+  Instagram<a href="https://www.instagram.com/01_v_i_j_a_y_01/">Instagram</a>
 </p>
