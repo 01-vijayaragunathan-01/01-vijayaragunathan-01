@@ -63,4 +63,3 @@
 
 ---
 
-<p align="center">Made with ❤️ by Mr. Black Heart</p>
