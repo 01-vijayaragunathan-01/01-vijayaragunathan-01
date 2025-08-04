@@ -1,12 +1,10 @@
 ## Hi there 👋 it's me Vijayaragunathan
 
-<h3 align="center">🚀 MERN Stack Developer | Self-Taught Programmer | Problem Solver</h3>
+<h3 align="center">🚀 MERN Stack Developer | Self-Taught Programmer | </h3>
 
 <p align="center">
-  <a href="https://digitalpageshub.web.app" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://instagram.com/your_instagram" target="_blank">Instagram</a> • 
-  <a href="https://linkedin.com/in/your_linkedin" target="_blank">LinkedIn</a> • 
-  <a href="mailto:your_email@gmail.com">Email</a>
+  <a href="https://vijayaragunathan.netlify.app/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://www.instagram.com/01_v_i_j_a_y_01/" target="_blank">Instagram</a> • 
 </p>
 
 ---
@@ -17,7 +15,7 @@
 - 💻 Proficient in **C, C++, Python, JavaScript**, and **Linux**
 - 🌱 Currently exploring **AI**, **System Design**, and **Cloud Deployment**
 - 🔧 Working on various freelance and personal full-stack projects
-- ⚡ Fun Fact: I automate boring tasks with scripts (Linux FTW!)
+- ⚡ Fun Fact: I am working on the Saas based web Apps
 
 ---
 
@@ -32,7 +30,7 @@
 ### 💼 Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,photoshop,xd" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" />
 </p>
 
 ---
@@ -44,22 +42,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="48%" />
 </p>
 
----
-
-### 💻 Workspace Setup
-
-- 💻 **OS:** Windows 11 / Linux Dual Boot  
-- 🚀 **Processor:** AMD Ryzen 5  
-- 🎮 **Graphics:** GTX 1650  
-- ⚙️ **Editor:** VS Code, Postman, Figma  
 
 ---
 
 ### 🔗 Let's Connect
 
-- 🌐 Website: [digitalpageshub.web.app](https://digitalpageshub.web.app)
-- 📩 Email: your_email@gmail.com
-- 🧠 Discord Server: Coming soon for creators, devs, freelancers!
-
+- 🌐 Discord: https://discord.gg/CcBkCT97Fg
+- 📩 Email: ragunathanvijay68@gmail.com
+Connect here to Work Together
 ---
 
