@@ -47,8 +47,8 @@
 
 ### 🔗 Let's Connect
 
-- 🌐 Discord: https://discord.gg/CcBkCT97Fg
-- 📩 Email: ragunathanvijay68@gmail.com
+- <a href="https://discord.gg/CcBkCT97Fg" target="_blank">🌐 Discord</a> 
+- 📩 Email: ragunathanvijay68@gmail.com ,<br>
 Connect here to Work Together
 ---
 
